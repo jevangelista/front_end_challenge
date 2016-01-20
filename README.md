@@ -11,11 +11,14 @@ This repo contains the code for a responsive navbar. It demonstrates the use of 
 
 I chose to keep the folder structure fairly simple, since this coding challenge is centered around one particular feature. Though, if it were a fully functional app, I would consider using a more robust MVC framework, like Ruby on Rails or Node.js. 
 
+
 ## Technologies Used:
 
 HTML, CSS, Bootstrap, Javascript, jQuery, Git/GitHub
 
-For this challenge, I chose to use the Bootstrap framework to help streamline the process of creating the responsive navbar. Though, I'd be excited to take on the challenge of creating a responsive design using plain CSS and media queries. 
+For this challenge, I chose to use the Bootstrap framework to help streamline the process of creating the responsive navbar. Since, this challenge has us a bit strapped for time, I chose this route, though, if given more time, I'd be excited to take on the challenge of creating a responsive design using plain CSS and media queries. 
+
+Also, I used the jQuery library in order to create the javascript control for the login/logout button. Right now, I have a variable manually controlling the function in my Javascript. Though, in a real-life situation, I know I would have to create a helper method to link the user variable with the database.
 
 
 ## Wishlist/Future Development
