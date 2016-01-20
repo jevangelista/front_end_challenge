@@ -5,15 +5,17 @@
  	color: #494949 !important;
  }
 
- .navbar-default {
+ .navbar-custom {
  	background-color: #83EDD9 !important;
- 	color: #494949 !important;
  }
 
- .li a {
- 	color: #494949 !important;
- }
+ .navbar .nav > li > a {
+    color: #494949 !important;
+}
 
+.navbar-header > a {
+	color: #494949 !important;
+}
 
 .btn-default {
 	margin-top: 7px !important;
