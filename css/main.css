@@ -1,0 +1,22 @@
+ body { 
+ 	background: #FFFFFF !important;
+ 	font-family: 'Roboto', sans-serif !important; 
+ }
+
+ .navbar-default {
+ 	background-color: #83EDD9 !important;
+ 	color: #83EDD9 !important;
+ }
+
+ h1 {
+ 	margin: 200px;
+ }
+
+ .jamie {
+ 	margin-top: 100px;
+ }
+
+.btn-default {
+	margin-top: 7px !important;
+	margin-left: 5px !important;
+}
