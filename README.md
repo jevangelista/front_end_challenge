@@ -1,4 +1,4 @@
-#Company Front End Challenge
+#General Assembly Front End Challenge
 
 ## Overview:
 This repo contains the code for a responsive navbar. It demonstrates the use of web standards, including HTML5, uses a separate CSS file, makes the navbar responsive with at least one breakpoint, follows the style guidelines provided for this challenge, and includes buttons to logout 
