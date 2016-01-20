@@ -1,4 +1,12 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset";
+
  /* Styles to override Bootstrap START */
+ 
  body { 
  	background: #FFFFFF !important;
  	font-family: 'Roboto', sans-serif !important; 
@@ -9,11 +17,11 @@
  	background-color: #83EDD9 !important;
  }
 
- .navbar .nav > li > a {
+ .navbar .nav li a {
     color: #494949 !important;
 }
 
-.navbar-header > a {
+.navbar-header a {
 	color: #494949 !important;
 }
 
