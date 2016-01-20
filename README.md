@@ -12,7 +12,7 @@ This repo contains the code for a responsive navbar. It demonstrates the use of 
 
 ## Technologies Used:
 
-HTML, CSS, Bootstrap, Javascript, Git/GitHub
+HTML, CSS, Bootstrap, Javascript, jQuery, Git/GitHub
 
 
 ## Wishlist/Future Development

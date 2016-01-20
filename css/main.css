@@ -9,8 +9,24 @@
  	color: #494949 !important;
  }
 
+ .li a {
+ 	color: #494949 !important;
+ }
+
 
 .btn-default {
 	margin-top: 7px !important;
 	margin-left: 5px !important;
+}
+
+.login-btn {
+	display: none;
+}
+
+.logout-btn {
+	display: none;
+}
+
+.jamie {
+	margin-top: 100px;
 }
