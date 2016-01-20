@@ -5,7 +5,7 @@ This repo contains the code for a responsive navbar. It demonstrates the use of 
 
 ## File Structure:
 
-* Index.html (in main folder)
+* index.html (in main folder)
 * screen.scss (in my_sass/sass folder)
 * app.js (in js folder)
 
